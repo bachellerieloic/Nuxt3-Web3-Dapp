@@ -1,4 +1,4 @@
-# RetireMint Nuxt 3 + Vuetify 3
+# Nuxt 3 + Web3.js + Vuetify 3
 
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
